@@ -53,7 +53,7 @@ on:
 env:
   PROJECT_ID: dbg-sap-sbox-9d867594 # TODO: update Google Cloud project id
   SERVICE: python # TODO: update Cloud Run service name
-  REGION: europe-west1 # TODO: update Cloud Run service region
+  REGION: europe-west3 # TODO: update Cloud Run service region
 
 jobs:
   deploy:
